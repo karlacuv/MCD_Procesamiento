@@ -8,5 +8,5 @@ Tarea 1
   * [Reporte](https://github.com/karlacuv/MCD_Procesamiento/blob/main/KCV_Tarea_1_PCD.pdf)
 
 Tarea 2
-  * [Código](https://github.com/karlacuv/MCD_Procesamiento/blob/main/Tarea1_Preprocesamiento.ipynb)
+  * [Código](https://github.com/karlacuv/MCD_Procesamiento/blob/main/Tarea2_AnalisisSentimiento.ipynb)
   * [Reporte](https://github.com/karlacuv/MCD_Procesamiento/blob/main/KCV_Tarea_1_PCD.pdf)
