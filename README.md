@@ -13,4 +13,4 @@ Tarea 2
  
  Miniproyecto
   * [Código](https://github.com/karlacuv/MCD_Procesamiento/blob/main/Miniproyecto_1_Ana%CC%81lisis_de_clasificacio%CC%81n_Suicidiosv2_.ipynb)
-  * [Reporte](https://github.com/karlacuv/MCD_Procesamiento/blob/main/Miniproyecto%201%20-%20Poster.pdf)
+  * [Póster](https://github.com/karlacuv/MCD_Procesamiento/blob/main/Miniproyecto%201%20-%20Poster.pdf)
