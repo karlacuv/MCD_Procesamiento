@@ -11,6 +11,9 @@ Tarea 2
   * [Código](https://github.com/karlacuv/MCD_Procesamiento/blob/main/Tarea2_AnalisisSentimiento.ipynb)
   * [Reporte](https://github.com/karlacuv/MCD_Procesamiento/blob/main/KCV_Tarea_2_PCD.pdf)
  
+ Tarea 3
+  * [Código](https://github.com/karlacuv/MCD_Procesamiento/blob/main/Tarea3_AnalisisSentimiento_Modelos.ipynb)
+ 
  Miniproyecto
   * [Código](https://github.com/karlacuv/MCD_Procesamiento/blob/main/Miniproyecto_1_Ana%CC%81lisis_de_clasificacio%CC%81n_Suicidiosv2_.ipynb)
   * [Póster](https://github.com/karlacuv/MCD_Procesamiento/blob/main/Miniproyecto%201%20-%20Poster.pdf)
