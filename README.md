@@ -19,4 +19,4 @@ Tarea 2
   * [Póster](https://github.com/karlacuv/MCD_Procesamiento/blob/main/Miniproyecto%201%20-%20Poster.pdf)
  
   Tarea 5
-  * [Código](https://github.com/karlacuv/MCD_Procesamiento/blob/main/Tarea5_ProcesamientoImagenes.ipynb)
+  * [Código](https://colab.research.google.com/drive/1zvmVkMzPhCoafE-7--ZqttgwvuvxVQPV#scrollTo=1u_2B3a00SSj)
