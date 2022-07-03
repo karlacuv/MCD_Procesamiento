@@ -14,9 +14,15 @@ Tarea 2
  Tarea 3
   * [Código](https://github.com/karlacuv/MCD_Procesamiento/blob/main/Tarea3_AnalisisSentimiento_Modelos.ipynb)
  
- Miniproyecto
+ Miniproyecto 1
   * [Código](https://github.com/karlacuv/MCD_Procesamiento/blob/main/Miniproyecto_1_Ana%CC%81lisis_de_clasificacio%CC%81n_Suicidiosv2_.ipynb)
   * [Póster](https://github.com/karlacuv/MCD_Procesamiento/blob/main/Miniproyecto%201%20-%20Poster.pdf)
  
   Tarea 5
-  * [Código](https://colab.research.google.com/drive/1zvmVkMzPhCoafE-7--ZqttgwvuvxVQPV#scrollTo=1u_2B3a00SSj)
+  * [Código](https://github.com/karlacuv/MCD_Procesamiento/blob/main/Tarea5_ProcesamientoImagenes.ipynb)
+
+ Tarea 6
+  * [Código]()
+  
+   Tarea 7
+  * [Código](https://github.com/karlacuv/MCD_Procesamiento/blob/main/Tarea7_TransferLearning.ipynb)
