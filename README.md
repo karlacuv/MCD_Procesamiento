@@ -22,7 +22,7 @@ Tarea 2
   * [Código](https://github.com/karlacuv/MCD_Procesamiento/blob/main/Tarea5_ProcesamientoImagenes.ipynb)
 
  Tarea 6
-  * [Código]()
+  * [Código](https://github.com/karlacuv/MCD_Procesamiento/blob/main/Tarea6_Redes_Convolucionales.ipynb)
   
    Tarea 7
   * [Código](https://github.com/karlacuv/MCD_Procesamiento/blob/main/Tarea7_TransferLearning.ipynb)
