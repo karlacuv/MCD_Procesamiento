@@ -17,6 +17,8 @@ Tarea 2
  Miniproyecto 1
   * [Código](https://github.com/karlacuv/MCD_Procesamiento/blob/main/Miniproyecto_1_Ana%CC%81lisis_de_clasificacio%CC%81n_Suicidiosv2_.ipynb)
   * [Póster](https://github.com/karlacuv/MCD_Procesamiento/blob/main/Miniproyecto%201%20-%20Poster.pdf)
+
+## Fase II: Análisis de Imágenes
  
   Tarea 5
   * [Código](https://github.com/karlacuv/MCD_Procesamiento/blob/main/Tarea5_ProcesamientoImagenes.ipynb)
@@ -26,3 +28,8 @@ Tarea 2
   
    Tarea 7
   * [Código](https://github.com/karlacuv/MCD_Procesamiento/blob/main/Tarea7_TransferLearning.ipynb)
+  
+   Miniproyecto 2
+  * [Código](https://github.com/karlacuv/MCD_Procesamiento/blob/main/Miniproyecto2_EmotionModel.ipynb)
+  * [Póster](https://github.com/karlacuv/MCD_Procesamiento/blob/main/Miniproyecto2_EmotionModel_Poster.pdf)
+  
