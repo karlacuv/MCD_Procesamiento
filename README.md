@@ -35,13 +35,13 @@ Tarea 2
   
 ## Fase III: Análisis de Sonido
 
-  Tarea 5
+  Tarea 8
   * [Código]()
 
 ## Proyecto Final
 
   * [Código](https://github.com/karlacuv/MCD_Procesamiento/blob/main/ProyectoFinal.ipynb)
-  * [Reporte]()
+  * [Reporte](https://github.com/karlacuv/MCD_Procesamiento/blob/main/Reporte_Proyecto_Final.pdf)
 
 
 
