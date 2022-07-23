@@ -33,3 +33,15 @@ Tarea 2
   * [Código](https://github.com/karlacuv/MCD_Procesamiento/blob/main/Miniproyecto2_EmotionModel.ipynb)
   * [Póster](https://github.com/karlacuv/MCD_Procesamiento/blob/main/Miniproyecto2_EmotionModel_Poster.pdf)
   
+## Fase III: Análisis de Sonido
+
+  Tarea 5
+  * [Código]()
+
+## Proyecto Final
+
+  * [Código](https://github.com/karlacuv/MCD_Procesamiento/blob/main/ProyectoFinal.ipynb)
+  * [Reporte]()
+
+
+
